@@ -1,0 +1,3 @@
+name: Smartphone
+version: '${version}'
+main: com.makarong.smartphone.Smartphone
